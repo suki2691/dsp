@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> Vim. I asked a few of my friends and tried it for myself
+>> The editor I would prefer to use id **Vim**. I asked a few of my friends for their opinions and chose **Vim**
 
 --
 
@@ -89,6 +89,13 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> I intend to use Atom and Pyzo
+>> I am comfortable using the following
+* **Pyzo**  
+    - Easy to install packages using Pyzo
+    - Shortcuts- Ctrl + Enter (full script), Alt + Enter (to execute line/lines)
+* **Spyder**   
+    - The working directory can be set very easily
+    - Shortcuts for running the program- F5, Ctrl + Enter (to execute line/lines)
+
 
  
