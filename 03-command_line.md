@@ -19,7 +19,18 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `pwd`    : current working directory
+    * `mkdir`  : creating a directory
+    * `rmdir`  : removing directory
+    * `touch`  : creating a file (type nul > filename.txt)
+    * `del`    : delete a file
+    * `ren`    : renaming a file
+    * `ls -a`  : list hidden files  (dir /AH show only hidden files)
+    * `copy`   : copying files from one directory to another (use full path)
+    * `cd ~`   : go back to home directory
+    * `exit`   : exit the shell
+    
+    
 
 ---
 
@@ -34,7 +45,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `ls`      : lists all the files in the directory
+    * `ls -a`   : list hidden files and directories
+    * `ls -l`   : list with long format - show permissions
+    * `ls -lh`  : list long format with readable file size
+    * `ls -lah` : list long format  with readable file size including hidden files
+    * `ls -t`   : sort by time and date
+    * `ls -Glp` : list all files, exclude owner name, display directories with a /
 
 ---
 
@@ -42,7 +59,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `ls -c`   : displays files by file timestamp
+    * `ls -R`   : displays subdirectories as well
+    * `ls -x`   : displays files as rows across the screen
+    * `ls -1`   : displays each entry on a line
+    * `ls -q`   : displays all nonprinting characters as ?
 
 ---
 
@@ -50,7 +71,10 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > It is used to build and execute command lines from standard input (STDIN)
+    Example-
+    `echo 1 2 3 4 | xargs -n 2`
+    This line prints the numbers, limiting the number of entries in a line to 2
 
  
 
