@@ -2,7 +2,7 @@
 
 ## :boom: Git 10-minute Video :boom: 
 
-**Watch this [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID]), which covers all the steps below.** 
+**Watch this [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID]), which covers all the steps below.**   
 The [list of commands used in the video](/resources/git_video_history.md) are available.
 
 
