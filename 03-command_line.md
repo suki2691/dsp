@@ -19,16 +19,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-    * `pwd`    : current working directory
-    * `mkdir`  : creating a directory
-    * `rmdir`  : removing directory
-    * `touch`  : creating a file (type nul > filename.txt)
-    * `del`    : delete a file
-    * `ren`    : renaming a file
-    * `ls -a`  : list hidden files  (dir /AH show only hidden files)
-    * `copy`   : copying files from one directory to another (use full path)
-    * `cd ~`   : go back to home directory
-    * `exit`   : exit the shell
+* `pwd`    : current working directory
+* `mkdir`  : creating a directory
+* `rmdir`  : removing directory
+* `touch`  : creating a file (type nul > filename.txt)
+* `del`    : delete a file
+* `ren`    : renaming a file
+* `ls -a`  : list hidden files  (dir /AH show only hidden files)
+* `copy`   : copying files from one directory to another (use full path)
+* `cd ~`   : go back to home directory
+* `exit`   : exit the shell
     
     
 
